@@ -1,3 +1,5 @@
+# NOTE - THIS IS DEPRECATED - It was temporarily created since the original language-typescript didn't support React. The upstream now supports React, so there's no point for this repository. Just leaving it here since it's still in Atom's apm.
+
 # TypeScriptReact (TSX) language support in Atom
 <!--[![macOS Build Status](https://travis-ci.org/atom/language-typescript.svg?branch=master)](https://travis-ci.org/atom/language-typescript)
 [![Windows Build Status](https://ci.appveyor.com/api/projects/status/ktooccwna96ssiyr/branch/master?svg=true)](https://ci.appveyor.com/project/Atom/language-javascript-dijf8/branch/master)-->
